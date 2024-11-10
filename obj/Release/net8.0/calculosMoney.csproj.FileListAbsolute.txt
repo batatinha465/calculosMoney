@@ -1,0 +1,14 @@
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\calculosMoney.exe
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\calculosMoney.deps.json
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\calculosMoney.runtimeconfig.json
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\calculosMoney.dll
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\calculosMoney.pdb
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\calculosMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\calculosMoney.AssemblyInfoInputs.cache
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\calculosMoney.AssemblyInfo.cs
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\calculosMoney.csproj.CoreCompileInputs.cache
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\calculosMoney.dll
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\refint\calculosMoney.dll
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\calculosMoney.pdb
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\calculosMoney.genruntimeconfig.cache
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\ref\calculosMoney.dll

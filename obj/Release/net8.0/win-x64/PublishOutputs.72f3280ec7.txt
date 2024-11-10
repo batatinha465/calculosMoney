@@ -1,0 +1,5 @@
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\win-x64\publish\calculosMoney.exe
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\win-x64\publish\calculosMoney.dll
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\win-x64\publish\calculosMoney.deps.json
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\win-x64\publish\calculosMoney.runtimeconfig.json
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\bin\Release\net8.0\win-x64\publish\calculosMoney.pdb
