@@ -22,7 +22,26 @@ class Money
     {
         qntdPessoas = PegarQntdPessoas();
         qntdDias = PegarQntdDias();
-        taxaPets = 15 * qntdDias;
+        
+        while (true)
+        {
+            Console.Clear();
+            Console.WriteLine("1 - Sim");
+            Console.WriteLine("2 - Não");
+            Console.Write("Tem pet: ");
+
+            if (int.TryParse(Console.ReadLine(), out int opcao) && opcao >= 1 && opcao <= 2)
+            {
+                VerificarPet(opcao);
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Houve um erro, tente novamente.");
+                Console.ReadKey();
+                continue;
+            }
+        }
         
         VerificarMes((Meses)mes);
     }
@@ -39,6 +58,22 @@ class Money
                 break;
             case Meses.Março:
                 CalcularMesMarco();
+                break;
+            default:
+                Console.WriteLine("O que caralhos tu fez?");
+                Console.ReadKey();
+                break;
+        }
+    }
+
+    private void VerificarPet(int opcao)
+    {
+        switch (opcao)
+        {
+            case 1:
+                taxaPets = 15 * qntdDias;
+                break;
+            case 2:
                 break;
             default:
                 Console.WriteLine("O que caralhos tu fez?");
