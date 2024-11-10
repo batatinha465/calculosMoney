@@ -12,3 +12,4 @@ C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8
 C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\win-x64\calculosMoney.pdb
 C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\win-x64\calculosMoney.genruntimeconfig.cache
 C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\win-x64\ref\calculosMoney.dll
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\calculosMoney\obj\Release\net8.0\win-x64\calculosMoney.sourcelink.json
